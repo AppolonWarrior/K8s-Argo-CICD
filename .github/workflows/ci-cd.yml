@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 env:
-  IMAGE: tomdeneyer/flask-app
+  IMAGE: appolonwarrior/flask-app
 
 jobs:
   build_push_update_deployment:
